@@ -1,3 +1,5 @@
+<img style="float: left; margin-top: 10px; width: 450px; height: 450px;" src=".github/my-octocat.png" alt="MyOctocat" />
+
 # Alexandre Monteiro 👨‍💻
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/monteiro-alexandre)](https://github.com/monteiro-alexandre)
@@ -5,7 +7,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alexandre.monteiro.bec@gmail.com)](mailto:alexandre.monteiro.bec@gmail.com)
 
 ## Hi there 👋  
-###  Welcome to my profile :octocat:
+
+### Welcome to my profile :octocat
 
 My name is Alexandre and I'm Full stack developer. Enthusiastic about new technologies in software development, Design Patterns, automated tests. Always looking for new knowledge, with main focus on studies in javaScript and NodeJs technologies. Computer engineering student, seeking to expand knowledge, aligning knowledge in software development and engineering studies.
 
@@ -14,18 +17,3 @@ My name is Alexandre and I'm Full stack developer. Enthusiastic about new techno
 - :books: Reading the Clean Code Book, to improve my skills in writing good codes.
 - 😄 I love JavasSript and TypeScript.
 - 🎓 Computer engineering student
-
-<!--
-**monteiro-alexandre/monteiro-alexandre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Unicorp Informática Industrial with AngularJs (1.x), NodeJs, Oracle Database and Oracle PL/SQL.
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
