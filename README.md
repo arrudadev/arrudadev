@@ -1,4 +1,4 @@
-<img style="float: left; margin-top: 10px; width: 400px; height: 400px;" src="https://github.com/monteiro-alexandre/monteiro-alexandre/blob/master/.github/my-octocat.png" alt="MyOctocat" />
+<img align="left" width="400" height="400" src="https://github.com/monteiro-alexandre/monteiro-alexandre/blob/master/.github/my-octocat.png" alt="MyOctocat" />
 
 # Alexandre Monteiro 👨‍💻
 
