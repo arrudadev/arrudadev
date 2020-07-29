@@ -1,4 +1,4 @@
-<img style="float: left; margin-top: 10px; width: 450px; height: 450px;" src=".github/my-octocat.png" alt="MyOctocat" />
+<img style="float: left; margin-top: 10px; width: 400px; height: 400px;" src="https://github.com/monteiro-alexandre/monteiro-alexandre/blob/master/.github/my-octocat.png" alt="MyOctocat" />
 
 # Alexandre Monteiro 👨‍💻
 
@@ -8,7 +8,7 @@
 
 ## Hi there 👋  
 
-### Welcome to my profile :octocat
+### Welcome to my profile :octocat:
 
 My name is Alexandre and I'm Full stack developer. Enthusiastic about new technologies in software development, Design Patterns, automated tests. Always looking for new knowledge, with main focus on studies in javaScript and NodeJs technologies. Computer engineering student, seeking to expand knowledge, aligning knowledge in software development and engineering studies.
 
