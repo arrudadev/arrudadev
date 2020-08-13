@@ -5,7 +5,7 @@
 ### Hi there 👋, Welcome to my profile :octocat:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/monteiro-alexandre)](https://github.com/monteiro-alexandre)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandre-monteiro-9a03371a5/)](https://www.linkedin.com/in/alexandre-monteiro-9a03371a5/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandre-monteiro-9a03371a5/)](https://www.linkedin.com/in/monteiro-alexandre/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alexandre.monteiro.bec@gmail.com)](mailto:alexandre.monteiro.bec@gmail.com)
 
 - :office_worker: I’m currently working at Unicorp Informática Industrial as a systems development technician, working with AngularJs (1.x), NodeJs, TypeScript, Oracle Database and Oracle PL/SQL.
