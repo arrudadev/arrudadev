@@ -26,7 +26,7 @@
 
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
 
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
+  <img align="center" alt="HTML" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
 
   <img align="right" width="128" height="128" src="https://github.com/monteiro-alexandre/monteiro-alexandre/blob/master/.github/my-octocat.png" alt="MyOctocat" />
 </div>
